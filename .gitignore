@@ -1,0 +1,8 @@
+﻿node_modules/
+Dist/
+.vite/
+.vercel/
+.vscode/
+*.log
+Thumbs.db
+.DS_Store
